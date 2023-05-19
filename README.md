@@ -2,7 +2,6 @@
 [![HTML Icon](https://cdn-icons-png.flaticon.com/128/1051/1051277.png)](https://en.wikipedia.org/wiki/HTML5)
 [![Shell Icon](https://cdn-icons-png.flaticon.com/128/919/919837.png)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![Java Icon](https://cdn-icons-png.flaticon.com/128/5968/5968282.png)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![Nix Icon](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244266/nix-icon-md.png)](https://nixos.org)
 ## This repository includes all the essential configurations and files for EaglerCraft client and Microsoft Login. Here's how you can use it:
 
 ## How to Use the Repository
