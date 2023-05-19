@@ -21,6 +21,7 @@ Although I believe this whole entire project is legit and I will keep working on
 ### Last but not least. Go to bungee/plugins/EaglerXBungee/settings.yml.
 ### Make sure it's like this somewhere:
 websocket_connection_timeout: 99000
+
 websocket_handshake_timeout: 99000
 ### If it's the default 15000 and stuff, it will timeout you. 
 ## How Java Players Can Connect
