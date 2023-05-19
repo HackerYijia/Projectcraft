@@ -17,6 +17,11 @@
 ### Find where it defines lobby and what it is.
 ### Copy paste these details and modify the name and address as you wish.
 ### You may add as many servers as you'd like.
+### Last but not least. Go to bungee/plugins/EaglerXBungee/settings.yml.
+### Make sure it's like this somewhere:
+websocket_connection_timeout: 99000
+websocket_handshake_timeout: 99000
+### If it's the default 15000 and stuff, it will timeout you. 
 ## How Java Players Can Connect
 ### Java players can connect to your Minecraft server by using an external hosting site like Cxmpute or by using your repl name IP, which is {replname}.{username}.repl.co:25577 by default.
 
