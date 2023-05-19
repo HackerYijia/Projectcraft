@@ -1,25 +1,26 @@
 # EaglerCraft 1.8 Backup
-## Include: Microsoft Login & EaglerCraft Client, and all the essentials configs.
-### How to use.
-### Go to https://repl.it/create and click import from Github, and enter [
-This Github Link](https://github.com/HackerYijia/NXBackup).
+## This repository includes all the essential configurations and files for EaglerCraft client and Microsoft Login. Here's how you can use it:
 
-## How to make an server outside of Repl?
-### You may left the server folder for other uses like an sub-server. 
-### Go to bungee/config.yml, and find where it defines lobby and what it is. Copy paste these and
-### fix the name and address as you want, you may add many servers as you want.
+## How to Use the Repository
+### Go to https://repl.it/create and click on the "Import from Github" button.
+### Enter this repository link: https://github.com/HackerYijia/NXBackup
+### Wait for the repository to import.
+### Customize the server as per your requirements.
+## How to Make a Server Outside of Repl
+### You may want to host your Minecraft server outside of Replit. Here's how you can do it:
 
-## How can java players connect?
-### Either use an outside hosting like [Cxmpute](https://cxmpute.com) or 
-### By default, your java repl ip is: {thoureplname}.{thouusername}.repl.co:25577.
+### Leave the server folder for other uses like a sub-server.
+### Open the bungee/config.yml file.
+### Find where it defines lobby and what it is.
+### Copy paste these details and modify the name and address as you wish.
+### You may add as many servers as you'd like.
+## How Java Players Can Connect
+### Java players can connect to your Minecraft server by using an external hosting site like Cxmpute or by using your repl name IP, which is {replname}.{username}.repl.co:25577 by default.
 
-## I need some more help....
-### Newest Discord Support yet lesser people than old:
-#### [Join NXNetwork V2!](https://discord.gg/6ssVh9Az)
-### Old Discord Support | Unsuggested | 50+ Members.
-### [Join NX Network Outdated](https://discord.gg/WKq6wgAV))
+## Need More Help?
+### If you need more help, feel free to join our Discord community:
 
-#### Feel free to ping me <@977319952950378566> Or DM me: NoxShadow YT#2295
-
-NX YT, Founder of NX Network. 
+### Newer Discord Support (Less People): Join NXNetwork V2!
+### Older Discord Support (Unsuggested, but 50+ members): Join NX Network Outdated)
+### Ping the founder, NX YT (<@977319952950378566>) or DM him on Discord (NoxShadow YT#2295).
 
