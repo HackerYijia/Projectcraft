@@ -1,4 +1,4 @@
-# EaglerCraft 1.8 Backup
+# EaglerCraft 1.8 Backup - Projectcraft
 Although I believe this whole entire project is legit and I will keep working on it so it's even more legit, If you still want to take it down, Mojiang Employees, kindly contact me in the Issues zone before you decide to take this down, If there is any enforcement and change to the project that you will wish me to do, I will do it, As our top developer, Lax1dude syas, the whole entire goal is to port Minecraft to web instead of copyrihting the orginal game. Thanks for understanding, - NoxShadow.
 [![HTML Icon](https://cdn-icons-png.flaticon.com/128/1051/1051277.png)](https://en.wikipedia.org/wiki/HTML5)
 [![Shell Icon](https://cdn-icons-png.flaticon.com/128/919/919837.png)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
