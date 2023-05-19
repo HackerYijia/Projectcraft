@@ -1,0 +1,99 @@
+# Notice! Keep this file or your client will get dmcaed! This files is an Mircosoft login that is required to keep the game legit and for everyone.
+# I probally did an bad job making that, if you have any suggestions open an pull request or something like that. 
+# Thanks!
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Microsoft Login</title>
+    <style>
+      body {
+        background-color: #f0f0f0;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        color: #333;
+      }
+      
+      h1 {
+        margin-top: 40px;
+        text-align: center;
+        font-size: 36px;
+        color: #0078d4; /* Microsoft blue */
+      }
+      
+      p {
+        margin-bottom: 20px;
+        line-height: 1.5;
+      }
+      
+      button {
+        padding: 10px 20px;
+        background-color: #0078d4;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      
+      button:hover {
+        background-color: #005a9e; /* Darker Microsoft blue on hover */
+      }
+    </style>
+    <!-- Load the MSAL JavaScript library -->
+    <script src="https://alcdn.msauth.net/browser/2.16.0/js/msal-browser.min.js"></script>
+  </head>
+  <body>
+    <h1>Welcome to EaglerCraft!</h1>
+    <p>To avoid copyright issue, we require a Microsoft account.</p>
+    <p>Please log in with your Microsoft account:</p>
+    <div id="msalInstance"></div>
+    <script>
+      const msalConfig = {
+        auth: {
+          clientId: "61c611a1-e33b-4f49-be25-1def0fd715d8",
+          redirectUri: window.location.origin
+        },
+        cache: {
+          cacheLocation: "localStorage",
+          storeAuthStateInCookie: true
+        }
+      };
+      const msalInstance = new msal.PublicClientApplication(msalConfig);
+
+      // Define the scopes required for authentication
+      const loginRequest = {scopes: ["openid", "profile", "offline_access"]};
+
+      // Check if user is already logged in
+      const accounts = msalInstance.getAllAccounts();
+      if (accounts.length > 0) {
+        // User is already logged in, proceed to the next page
+        window.location.href = "eaglercraft";
+      } else {
+        // User is not logged in, show the login button
+        const loginButton = document.createElement("button");
+        loginButton.onclick = () => {
+          msalInstance.loginPopup(loginRequest)
+            .then(response => {
+              // User is authenticated, proceed to the next page
+              window.location.href = "eaglercraft.html";
+            })
+            .catch(error => console.error(error));
+        };
+        loginButton.textContent = "Log in with Microsoft";
+        document.getElementById("msalInstance").appendChild(loginButton);
+      }
+    </script>
+    <p>If you can't log in, use Replit instead. We will check if you have a Minecraft account.</p>
+    <div>
+      <script authed="window.location.href='eaglercraft.html'" src="https://auth.util.repl.co/script.js"></script>
+
+
+</script>
+    </div>
+    <!-- Enable this: checkMinecraftAccountstatus=true in the python.js -->
+  </body>
+</html>
+
+#Minecraft 2023, all right served, the creator aka NX_YT has no responsibly over what you do, the github repl is open source. But keep this files for your own safety. 
