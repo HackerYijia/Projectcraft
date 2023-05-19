@@ -4,6 +4,12 @@ Although I believe this whole entire project is legit and I will keep working on
 [![Shell Icon](https://cdn-icons-png.flaticon.com/128/919/919837.png)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![Java Icon](https://cdn-icons-png.flaticon.com/128/5968/5968282.png)](https://en.wikipedia.org/wiki/Java_(programming_language))
 ## This repository includes all the essential configurations and files for EaglerCraft client and Microsoft Login. Here's how you can use it:
+#### Repo contains:
+#### Modifed version of Minecraft
+#### Source code of Minecraft
+#### Bungee and Websocket
+#### Mojiang Auth (Do not change the client id, even tho it is still in progess! The client id is unlike others and is made special.)
+
 
 ## How to Use the Repository
 ### Go to https://repl.it/create and click on the "Import from Github" button.
