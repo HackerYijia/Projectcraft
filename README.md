@@ -1,4 +1,8 @@
 # EaglerCraft 1.8 Backup
+[![HTML Icon](https://cdn.icon-icons.com/icons2/39/PNG/256/html_tag_icon_74418.png)](https://en.wikipedia.org/wiki/HTML5)
+[![Shell Icon](https://cdn.icon-icons.com/icons2/112/PNG/128/terminal_icon-icons.com_59293.png)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Java Icon](https://cdn.icon-icons.com/icons2/26/PNG/64/java_programming_code_logo_icon_153139.png)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![Nix Icon](https://iconape.com/wp-content/png_logo_vector/nixos-logo-1.png)](https://nixos.org)
 ## This repository includes all the essential configurations and files for EaglerCraft client and Microsoft Login. Here's how you can use it:
 
 ## How to Use the Repository
