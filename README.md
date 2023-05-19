@@ -20,7 +20,7 @@
 ## Need More Help?
 ### If you need more help, feel free to join our Discord community:
 
-### Newer Discord Support (Less People): Join NXNetwork V2!
-### Older Discord Support (Unsuggested, but 50+ members): Join NX Network Outdated)
+### Newer Discord Support (Less People): [Join NXNetwork V2!](https://discord.gg/6ssVh9Az)
+### Older Discord Support (Unsuggested, but 50+ members): [Join NX Network Outdated](https://discord.gg/WKq6wgAV)
 ### Ping the founder, NX YT (<@977319952950378566>) or DM him on Discord (NoxShadow YT#2295).
 
