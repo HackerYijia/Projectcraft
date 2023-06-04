@@ -134,13 +134,13 @@ cd ..
 
 # run it!!
 cd bungee
-tmux new -d -s server "java -Xmx128M -jar bungee.jar; tmux kill-session -t server"
+tmux new -d -s server "java -Xmx128M -jar bungee.jar"
 cd ../server
 if [ ! -f "server.jar" ] && [ -d "../cuberite" ]; then
   cd ../cuberite
   tmux splitw -t server -v "BIND_ADDR=127.0.0.1 LD_PRELOAD=../bindmod.so ./Cuberite; tmux kill-session -t server"
 else
-  tmux splitw -t server -v "java -Djline.terminal=jline.UnsupportedTerminal -Xmx512M -jar server.jar nogui; tmux kill-session -t server"
+  tmux splitw -t server -v "java -Djline.terminal=jline.UnsupportedTerminal -Xmx512M -jar server.jar nogui"
 fi
 cd ..
 while tmux has-session -t server
