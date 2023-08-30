@@ -1,42 +1,28 @@
-# EaglerCraft 1.8 Backup - Projectcraft
-Although I believe this whole entire project is legit and I will keep working on it so it's even more legit, If you still want to take it down, Mojiang Employees, kindly contact me in the Issues zone before you decide to take this down, If there is any enforcement and change to the project that you will wish me to do, I will do it, As our top developer, Lax1dude syas, the whole entire goal is to port Minecraft to web instead of copyrihting the orginal game. Thanks for understanding, - NoxShadow.
-[![HTML Icon](https://cdn-icons-png.flaticon.com/128/1051/1051277.png)](https://en.wikipedia.org/wiki/HTML5)
-[![Shell Icon](https://cdn-icons-png.flaticon.com/128/919/919837.png)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![Java Icon](https://cdn-icons-png.flaticon.com/128/5968/5968282.png)](https://en.wikipedia.org/wiki/Java_(programming_language))
-## This repository includes all the essential configurations and files for EaglerCraft client and Microsoft Login. Here's how you can use it:
-#### Repo contains:
-#### Modifed version of Minecraft
-#### Source code of Minecraft
-#### Bungee and Websocket
-#### Mojiang Auth (Do not change the client id, even tho it is still in progess! The client id is unlike others and is made special.)
+# Backup Of EaglerCraft 1.8
+## Repl includes:
+## Web Port Of Client
+## EaglerXBungee
+## --------------------
+## Repl don't contain
+## Minecraft Jar Files
+## Web-port of ModerPack
+## Read below for why you should not DMCA EaglerCraft.
+Title: Embracing Innovation: Why Mojang Should Not DMCA EaglerCraft Servers
 
+Introduction:
+In recent times, the EaglerCraft servers have emerged as a unique and innovative project that offers players the ability to join their server via a web browser using a JavaScript copy of Minecraft, even without a legitimate Minecraft account. While some may argue that this approach infringes on Mojang's policies, it is essential to recognize the potential benefits and opportunities this project brings to the Minecraft community. In this article, we will explore the advantages of EaglerCraft servers, including fostering a new community, increasing engagement, and embracing the development possibilities, while acknowledging the endorsement of cracked clients by none other than Notch himself.
 
-## How to Use the Repository
-### Go to https://repl.it/create and click on the "Import from Github" button.
-### Enter this repository link: https://github.com/HackerYijia/NXBackup
-### Wait for the repository to import.
-### Customize the server as per your requirements.
-## How to Make a Server Outside of Repl
-### You may want to host your Minecraft server outside of Replit. Here's how you can do it:
+1. A New Community:
+EaglerCraft servers open up the Minecraft experience to a broader audience, including those who may not have access to a legitimate Minecraft account. By allowing players to join through a web browser, it creates an inclusive environment that encourages diverse participation. This accessibility can foster a vibrant and diverse community of players who may have otherwise been excluded from the Minecraft experience.
 
-### Leave the server folder for other uses like a sub-server.
-### Open the bungee/config.yml file.
-### Find where it defines lobby and what it is.
-### Copy paste these details and modify the name and address as you wish.
-### You may add as many servers as you'd like.
-### Last but not least. Go to bungee/plugins/EaglerXBungee/settings.yml.
-### Make sure it's like this somewhere:
-websocket_connection_timeout: 99000
+2. Increased Engagement:
+The availability of EaglerCraft servers through a web browser eliminates the barriers to entry for potential players. This convenience and ease of access can lead to a surge in player engagement, as users can quickly jump into the Minecraft world without the need for lengthy installations or account verification processes. This increased engagement can result in a thriving player base, enhanced interactions, and a more dynamic and lively gaming environment.
 
-websocket_handshake_timeout: 99000
-### If it's the default 15000 and stuff, it will timeout you. 
-## How Java Players Can Connect
-### Java players can connect to your Minecraft server by using an external hosting site like Cxmpute or by using your repl name IP, which is {replname}.{username}.repl.co:25577 by default.
+3. Development Opportunities:
+The EaglerCraft project showcases the potential for innovation within the Minecraft ecosystem. By utilizing JavaScript-based Minecraft copies, developers are given the opportunity to explore new possibilities and create unique gameplay experiences. This kind of experimentation can lead to the development of innovative features, plugins, and modifications that can benefit not only EaglerCraft but the wider Minecraft community as well.
 
-## Need More Help?
-### If you need more help, feel free to join our Discord community:
+4. Notch's Perspective:
+It is worth noting that Markus Persson, commonly known as Notch, the creator of Minecraft, has expressed his stance on cracked clients and their use within the community. Notch has acknowledged that cracked clients can serve beneficial purposes, including enabling players to experience the game before purchasing and fostering community engagement. He has emphasized that cracked clients do not necessarily equate to lost sales and should not be seen as inherently negative.
 
-### Newer Discord Support (Less People): [Join NXNetwork V2!](https://discord.gg/6ssVh9Az)
-### Older Discord Support (Unsuggested, but 50+ members): [Join NX Network Outdated](https://discord.gg/WKq6wgAV)
-### Ping the founder, NX YT (<@977319952950378566>) or DM him on Discord (NoxShadow YT#2295).
-
+Conclusion:
+In light of the EaglerCraft servers' unique approach and the potential benefits they offer, it is essential for Mojang to consider the advantages of embracing this innovative project rather than pursuing a DMCA takedown. The EaglerCraft servers not only foster a new community by providing accessibility to a broader audience but also increase engagement and offer exciting development opportunities. Furthermore, Notch's own perspective on cracked clients supports the notion that they can serve as a valuable tool for community engagement without negatively impacting sales. By recognizing the potential benefits and endorsing this forward-thinking project, Mojang can demonstrate their commitment to innovation and inclusivity within the Minecraft community.
